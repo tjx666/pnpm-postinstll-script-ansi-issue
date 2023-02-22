@@ -1,0 +1,15 @@
+{
+  "name": "pnpm-postinstll-script-ansi-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node postinstall.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^2.15.3"
+  }
+}
