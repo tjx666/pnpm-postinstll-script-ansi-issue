@@ -1,0 +1,18 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers:
+      consola: ^2.15.3
+    dependencies:
+      consola: 2.15.3
+
+  packages/xxx:
+    specifiers: {}
+
+packages:
+
+  /consola/2.15.3:
+    resolution: {integrity: sha512-9vAdYbHj6x2fLKC4+oPH0kFzY/orMZyG2Aj+kNylHxKGJ/Ed4dpNyAQYwJOdqO4zdM7XpVHmyejQDcQHrnuXbw==}
+    dev: false
